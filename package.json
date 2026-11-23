@@ -1,0 +1,12 @@
+{
+  "name": "bottlebot-cavernas-api",
+  "version": "1.0.0",
+  "description": "API de cavernas e eventos dinamicos para o BottleBOT",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
